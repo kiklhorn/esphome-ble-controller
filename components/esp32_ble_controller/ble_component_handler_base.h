@@ -2,7 +2,7 @@
 
 #include <string>
 
-//#include <Arduino.h>
+#include <Arduino.h>
 //#include <BLEServer.h>
 //#include <BLECharacteristic.h>
 
