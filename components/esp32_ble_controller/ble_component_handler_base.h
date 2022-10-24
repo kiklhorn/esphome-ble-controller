@@ -3,8 +3,8 @@
 #include <string>
 
 //#include <Arduino.h>
-#include <BLEServer.h>
-#include <BLECharacteristic.h>
+//#include <BLEServer.h>
+//#include <BLECharacteristic.h>
 
 #include "esphome/core/entity_base.h"
 #include "esphome/core/controller.h"
